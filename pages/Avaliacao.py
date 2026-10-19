@@ -1,7 +1,4 @@
 
-Avaliacao.py
-
-100%
 from pathlib import Path
 from datetime import datetime
 import math
@@ -699,4 +696,4 @@ st.divider()
 st.caption(
     "DinoPetAnimal PRO • Avaliação veterinária individual em Excel"
 )
-Exibindo Avaliacao.py…
+
